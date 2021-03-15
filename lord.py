@@ -1,4 +1,5 @@
 #Udah Tinggal Pake Aja Gan:v
+#njir mau di recode sksk
 #Buat Paan Recod? Belajar Bahasa Pemerograman Sana Hadeeehh Kek Kntl Lu
 import requests as reek,json,os,time,requests
 try:
@@ -125,7 +126,7 @@ def cok():
 		except Exception as ex:exit(str(ex))
 		except (KeyboardInterrupt,EOFError):exit("[!] Exit")
 def memek():
-	print(f"{p}"+title+f"{h}\nFOLLOW IG @latipharkat_ | 16 Operator Otp{p}\n\nJangan Disalah Gunakan Anjg\nJumlah Spam Dikalikan Dengan 16\nContoh Jumlah Spam 2\nJadinya 2 Dikali 16 Spamnya 32\n")
+	print(f"{p}"+title+f"{h}\nFOLLOW IG @Anggagans| 16 Operator Otp{p}\n\nJangan Disalah Gunakan Anjg\nJumlah Spam Dikalikan Dengan 16\nContoh Jumlah Spam 2\nJadinya 2 Dikali 16 Spamnya 32\n")
 if __name__=="__main__":
 	memek()
 	cok()
