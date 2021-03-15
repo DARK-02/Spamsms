@@ -15,7 +15,7 @@ Terjadi Apa² dengan anda!
 ```
 # Buat Runnya
 ```BASH
-• git clone https://github.com/zakiahsanS/Spamsms
+• git clone https://github.com/FxAngga/Spamsms
 • cd Spamsms
 • python3 lord.py
 ```
@@ -24,3 +24,5 @@ Terjadi Apa² dengan anda!
 * LATIP <author>
 
 * lord <author>
+
+*angga <author>
